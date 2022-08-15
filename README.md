@@ -7,5 +7,6 @@
 
 ## Idea
 
+the idea came that we wanted to bring something classic from our childhoods and add features that would remind us of our daily lives at the <Academia de Código_>. So we had the idea to create a 2D Mario kart game with obstacles and characters from the Academy.
 
  
